@@ -1,4 +1,4 @@
-## Welcome to my Profile, I'm arelySmooth
+## Welcome to my Profile, I'm BarelySmooth
 
 - 👀 I’m interested in coding (obviously)
 - 🌱 I’m currently learning Python, HTML, CSS and JS.
