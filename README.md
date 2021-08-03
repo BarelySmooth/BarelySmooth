@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @BarelySmooth
+## Welcome to my Profile, I'm arelySmooth
+
 - 👀 I’m interested in coding (obviously)
 - 🌱 I’m currently learning Python, HTML, CSS and JS.
 - 🌎 My (work in progress) website: [barelysmooth.github.io](https://barelysmooth.github.io/ "Website Link")
