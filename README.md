@@ -1,7 +1,6 @@
 ## Welcome to my Profile, I'm BarelySmooth
 
-- 👀 I’m interested in coding (obviously)
-- 🌱 I’m currently learning Python, HTML, CSS and JS.
+- 🌱 I’m currently learning Javascript.
 - 🌎 My (work in progress) website: [barelysmooth.github.io](https://barelysmooth.github.io/ "Website Link")
 
 <!---
