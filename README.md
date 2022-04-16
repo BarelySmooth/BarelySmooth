@@ -1,7 +1,8 @@
-## Welcome to my Profile, I'm BarelySmooth
+## Welcome to my Profile, I'm BarelySmooth 👋
 
-- 🌱 I’m currently learning Javascript.
-- 🌎 My website: [barelysmooth.github.io](https://barelysmooth.github.io/ "Website Link")
+Started off with Scratch and Python, and later learnt Javascript. These days, I mostly work on React and Node projects.
+
+Also check out my website [barelysmooth.github.io](https://barelysmooth.github.io/ "Website Link")!
 
 <!---
 BarelySmooth/BarelySmooth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
