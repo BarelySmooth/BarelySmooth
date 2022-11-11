@@ -1,4 +1,4 @@
-## Welcome to my Profile, I'm BarelySmooth 👋
+## Welcome to my profile, I'm BarelySmooth 👋
 
 Started off with Scratch and Python, and later learnt Javascript. These days, I mostly work on React and Node projects.
 
